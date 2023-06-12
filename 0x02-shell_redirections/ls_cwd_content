@@ -1,0 +1,17 @@
+total 88
+drwxr-xr-x  16 adek  staff   512 Jun 12 20:23 .
+drwxr-xr-x@  8 adek  staff   256 Jun 12 18:39 ..
+-rw-r--r--@  1 adek  staff  6148 Jun 12 20:15 .DS_Store
+drwxr-xr-x   9 adek  staff   288 Jun 12 18:39 .git
+-rwxr-xr-x   1 adek  staff    32 Jun 12 18:41 0-hello_world
+-rwxr-xr-x   1 adek  staff    28 Jun 12 18:46 1-confused_smiley
+-rwxr-xr-x   1 adek  staff    28 Jun 12 18:47 2-hellofile
+-rwxr-xr-x   1 adek  staff    39 Jun 12 18:50 3-twofiles
+-rwxr-xr-x   1 adek  staff    35 Jun 12 18:52 4-lastlines
+-rwxr-xr-x   1 adek  staff    35 Jun 12 18:53 5-firstlines
+-rwxr-xr-x   1 adek  staff    32 Jun 12 19:37 6-third_line
+-rwxr-xr-x   1 adek  staff    74 Jun 12 20:16 7-file
+-rwxr-xr-x   1 adek  staff    36 Jun 12 20:22 8-cwd_state
+-rw-r--r--   1 adek  staff     0 Jun 12 18:40 README.md
+-rw-r--r--   1 adek  staff     0 Jun 12 20:17 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 adek  staff     0 Jun 12 20:23 ls_cwd_content
